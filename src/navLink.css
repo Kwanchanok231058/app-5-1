@@ -1,0 +1,16 @@
+.nav{
+    background-color: rgba(167, 232, 200, 0.746);
+    padding: 7px;
+    text-align: center;
+}
+.menu{
+    color: hotpink;
+    text-decoration: none;
+    padding: 2px 5px;
+}
+.active{
+    color: hotpink;
+    background-color: burlywood;
+    text-decoration: none;
+    padding: 2px 5px;
+}
